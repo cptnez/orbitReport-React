@@ -59,4 +59,7 @@ const Table = ({ sat }) => {
   );
 };
 
+//test
+console.log('test')
+
 export default Table;
