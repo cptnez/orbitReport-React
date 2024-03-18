@@ -1,4 +1,5 @@
 import satData from "./satData";
+import styling from './styling.css';
 
 const Table = ({ sat }) => {
   const tableName = sat.map((data) => {
